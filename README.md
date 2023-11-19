@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
+### Hi, this is Mike Qin! 👋
 
 ![](https://img.shields.io/badge/CSDN-Mike_Qin-blue.svg)
 
